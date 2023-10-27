@@ -14,10 +14,13 @@ Esta limpieza suele seguirse de un enjuague con agua caliente y finalmente con a
 
 - Entorno de Modelado y Simulacion: se utiliza el softare en version free de CADe_SIMU y PC_SIMU, el cual permite modelar y simular el comportamiento de un sistema de control.
 
-- Definición de componentes: - Pilotos LED: H1, H2, H3 - Pulsadores: Rt, PG, PM - Bombas: M1 (carga), M2 (envío) - Válvulas: V1e (entrada de soda cáustica),V2e (entrada de agua caliente), V3e
-  (entrada de agua fría), V1s (salida de soda cáustica),V2s (salida de agua caliente), V3s
-  (salida de agua fría), V4 (salida/vaciado general)
-   Sensores de Nivel: B2 (nivel mínimo), B1 (nivel máximo)
+- Definición de componentes: 
+  - Pilotos LED: H1, H2, H3 
+  - Pulsadores: Rt, PG, PM 
+  - Bombas: M1 (carga), M2 (envío) 
+  - Válvulas: V1e (entrada de soda cáustica),V2e (entrada de agua caliente), V3e
+  (entrada de agua fría), V1s (salida de soda cáustica),V2s (salida de agua caliente), V3s(salida de agua fría), V4 (salida/vaciado general)
+  - Sensores de Nivel: B2 (nivel mínimo), B1 (nivel máximo)
 
 - Descripcion de funcionamiento:
 
