@@ -1,1 +1,0 @@
-Llenado y vaciado OK de los 3 tanques, falta controlar testigos, aplicar parada de emergencia y reinicio.
