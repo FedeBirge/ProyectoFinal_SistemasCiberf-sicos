@@ -25,4 +25,4 @@ Nota: cada proyecto tiene su propia carpeta con el nombre respectivo a cada uno.
 
 2. Automatización de Eventos Discretos: 
  - Desarrollar habilidades para modelar, analizar y diseñar sistemas de automatización de eventos discretos. 
- - Implementar soluciones de automatización que cumplan con especificaciones dadas, considerando la eficiencia, seguridad y fiabilidad. 
+ - Implementar soluciones de automatización que cumplan con especificaciones dadas, considerando la eficiencia, seguridad y fiabilidad.
