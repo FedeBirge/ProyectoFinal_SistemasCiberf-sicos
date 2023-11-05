@@ -55,3 +55,4 @@ Vaciado y Finalización:
 PG es una parada de emergencia. Al presionarse, todo el proceso debe detenerse inmediatamente. H3 se encenderá en rojo cuando se active la parada de emergencia.
 
 Rt sirve para reiniciar el proceso en caso de que se haya detenido por alguna alarma o interrupción.
+
